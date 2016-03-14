@@ -1,0 +1,15 @@
+name: Nicks
+version: 1.0.0
+author: applqpak
+api:
+- 1.0.0
+- 2.0.0
+main: Nicks\Main
+commands:
+  nick:
+    usage: "/nick <nick | off>"
+    description: Change Your Nick.
+    permission: nicks.command.nick
+permissions:
+  nicks.command.nick:
+    default: op
