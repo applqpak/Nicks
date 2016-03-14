@@ -1,0 +1,2 @@
+# Nicks
+Easy Nick Plugin.
